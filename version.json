@@ -1,4 +1,14 @@
 {
-	"latest": "0.0.1",
-	"download-url": "Library/ZeroPointLaunch-Core.jar"
+	"latest": "0.0.2",
+	"download-url": "Core/ZeroPointLaunch-Core-0.0.2.ja",
+	"history": [
+		{
+			"name": "0.0.1",
+			"download-url": "Core/ZeroPointLaunch-Core-0.0.1.jar"
+		},
+		{
+			"name": "0.0.2",
+			"download-url": "Core/ZeroPointLaunch-Core-0.0.2.jar"
+		}
+	]
 }
