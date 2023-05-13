@@ -18,7 +18,7 @@ exit
 :gotAdmin
 
 cd /d %cwd%
-java -Dfile.encoding=utf8 -jar Wrapper-1.0-SNAPSHOT.jar %*
+java -Dfile.encoding=utf8 -jar Wrapper-1.1-SNAPSHOT.jar %*
 
 echo 按任意键退出
 pause>nul
